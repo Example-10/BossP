@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BossP/static/css/main.828fbf63.css",
+    "main.js": "/BossP/static/js/main.280e498f.js",
+    "static/js/787.51d0689c.chunk.js": "/BossP/static/js/787.51d0689c.chunk.js",
+    "static/media/beach.jpg": "/BossP/static/media/beach.173fe0d6513b45e3b0f8.jpg",
+    "index.html": "/BossP/index.html",
+    "main.828fbf63.css.map": "/BossP/static/css/main.828fbf63.css.map",
+    "main.280e498f.js.map": "/BossP/static/js/main.280e498f.js.map",
+    "787.51d0689c.chunk.js.map": "/BossP/static/js/787.51d0689c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828fbf63.css",
+    "static/js/main.280e498f.js"
+  ]
+}
